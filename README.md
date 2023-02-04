@@ -1,4 +1,3 @@
-Hi!  I'm a software developer with experiences in []
 hi there 👋 I am Mostafa Adawy a Software/Firmeware developer with a wide varity of experiences 😎, check my repos 👇 and you can get certain of that.
    
 - 🔭 I’m currently working on building Web apps 🕸️ with different tools such as Node js / Laravel / react js /Angular Even Django
