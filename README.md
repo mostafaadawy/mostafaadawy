@@ -6,3 +6,21 @@ hi there 👋 I am Mostafa Adawy a Software/Firmeware developer with a wide vari
 
 - 💬 other experiences: unity <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796495-1c40998c-05ea-4a6e-9253-0e5e25bf35ce.svg" alt="unity">, unreal <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796496-83be71bd-ac27-4cb5-8912-133565f4ae5e.svg" alt="unreal">- c#, 3dmax, android studio-Java, vuejs <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796305-db0700c5-b523-4214-aa6d-d4f52beb8f94.svg" alt="vuejs">-flutter <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796392-1d37ba1f-3a88-4465-a387-607c41a6487e.svg" alt="flutter">, TDD, AWS clouding <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796516-9b68778b-e7f5-4e46-8810-604336805af1.svg" alt="AWS">, CircleCI- <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796512-9bffdf0c-9610-41c6-a158-2d96f7c61cf5.svg" alt="CircleCI"> deploying apps- hosting other normal server,express- typescript <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796492-4c842079-e9aa-4478-b0c5-61e7fd5e8c23.svg" alt="typescript">,
 webpack <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796500-a9a171f3-7894-4466-9f83-7d384395c959.svg" alt="webpack">,vanilla <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796499-b81edbe6-b798-462a-bbce-46eff62550e6.svg" alt="vanilla"> js, SQL DATABASE <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796480-b14a7dd0-613b-42a9-87c6-7251111c2d13.svg" alt="SQL">, .net,matlab- labview- gnuradio ,embedded systems - raspberrian systems <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796487-6d4e5c95-ddf9-4ed3-8dc9-83ad663099c5.svg" alt="raspberrian"> and bitbacked,  c and c for embedded - microcontroller- dsp tiva c , python <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796485-87c4b1d9-b4b9-4a28-9273-63af4e29e3e0.svg" alt="python">,fpga verilog VHDL
+
+## Projects
+- check mt Public repos.
+
+## Experience
+- [Full Stack EngineerFull Stack Engineer, [CodageTech]()] , Cairo, Egypt- leading Team to build more than 4 Fullstack applications ERP SAAS System, Implementing Mobile applications, Outsourcing tasks and integrate TDD developed modules- leading Team to build more than 4 Fullstack applications ERP SAAS System - Implementing Mobile applications - Outsourcing tasks and integrate TDD developed modules
+- [Head of the Wireless Communications DepartmentHead of the Wireless Communications Department], Egypt- Team leading, Planning, designing, implementing, and assigning tasks to the team.- Identify team goals and evaluate team progress.- Team leading, Planning, designing, implementing, and assigning tasks to the team. - Identify team goals and evaluate team progress.
+- [Lecturer researcher Lecturer researcher] Cairo- Teaching telecommunication, Supervision of student projects, Teaching programming languages (javascript, python, VHDL)
+
+## Education
+- [PhDDoctor of Philosophy - PhD, [Beihang University](https://ev.buaa.edu.cn/)] Information systems and Information security
+-[Master of Engineering (M.Eng.), [MTC](http://www.mtc.edu.eg/mtcwebsite/)]  Electrical, Electronics and Communications Engineering
+## Certificates
+- Advanced Full-Stack Web DevelopmentAdvanced Full-Stack Web Development Udacity [certificate](https://graduation.udacity.com/confirm/DDJGGGCR)Issued Feb 2022Issued Feb 2022
+- Advanced Front-End Web DevelopmentAdvanced Front-End Web Development Udacity [certificate](https://graduation.udacity.com/confirm/7ZVLCHCC)Issued Nov 2021Issued Nov 2021
+## Contact
+- Email: drmostafaadawy1981@gmail.com
+- LinkedIn: [mostafaadawy](https://www.linkedin.com/in/mostafaamsadawy/),
