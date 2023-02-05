@@ -8,7 +8,8 @@ hi there 👋 I am Mostafa Adawy a Software/Firmeware developer with a wide vari
 webpack <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796500-a9a171f3-7894-4466-9f83-7d384395c959.svg" alt="webpack">,vanilla <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796499-b81edbe6-b798-462a-bbce-46eff62550e6.svg" alt="vanilla"> js, SQL DATABASE <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796480-b14a7dd0-613b-42a9-87c6-7251111c2d13.svg" alt="SQL">, .net,matlab- labview- gnuradio ,embedded systems - raspberrian systems <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796487-6d4e5c95-ddf9-4ed3-8dc9-83ad663099c5.svg" alt="raspberrian"> and bitbacked,  c and c for embedded - microcontroller- dsp tiva c , python <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796485-87c4b1d9-b4b9-4a28-9273-63af4e29e3e0.svg" alt="python">,fpga verilog VHDL
 
 ## Projects
-- check mt Public repos.
+- check my Public repos.
+- and may be ask for private repo b demand
 
 ## Experience
 - [Full Stack EngineerFull Stack Engineer, [CodageTech]()] , Cairo, Egypt- leading Team to build more than 4 Fullstack applications ERP SAAS System, Implementing Mobile applications, Outsourcing tasks and integrate TDD developed modules- leading Team to build more than 4 Fullstack applications ERP SAAS System - Implementing Mobile applications - Outsourcing tasks and integrate TDD developed modules
