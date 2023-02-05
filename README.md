@@ -1,4 +1,4 @@
-hi there 👋 I am Mostafa Adawy a Software/Firmeware developer with a wide varity of experiences 😎, check my repos 👇 and you can get certain of that.
+Hi there 👋 I am Mostafa Adawy a Software/Firmware developer with a variety of experiences 😎, check my repos 👇 and you can get certain of that.
    
 - 🔭 I’m currently working on building Web apps 🕸️ with different tools such as Node js <img style="width:22px; height:22px" src="https://user-images.githubusercontent.com/43582900/216795524-aa2c5148-8ff6-42e7-a4db-e20f61434726.svg" alt="NJS"> Laravel <img style="width:22px; height:22px" src="https://user-images.githubusercontent.com/43582900/216795519-b4289b42-1f41-44dc-8cd7-cc0fb9f9327b.svg" alt="LARAVEL">  PHP <img style="width:22px; height:22px" src="https://user-images.githubusercontent.com/43582900/216795516-1bff28c1-68aa-479e-94b9-1bb838248d52.svg" alt="LARAVEL"> react js <img style="width:22px; height:22px" src="https://user-images.githubusercontent.com/43582900/216795541-ea7e6cb9-907b-4ecb-98c7-b52ac20b2452.svg" alt="react"> Angular <img style="width:22px; height:22px" src="https://user-images.githubusercontent.com/43582900/216795491-d73ca5bc-f66a-475f-9e4d-09469c29adb9.svg" alt="Angular"> redux <img style="width:22px; height:22px" src="https://user-images.githubusercontent.com/43582900/216795529-0db2a0d0-fe5c-4867-a41e-c386c50542fa.svg" alt="redux"> Even Django <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216795071-c911d42f-d158-408b-ad43-a2f8cc678a77.svg" alt="Django">
 
@@ -8,8 +8,8 @@ hi there 👋 I am Mostafa Adawy a Software/Firmeware developer with a wide vari
 webpack <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796500-a9a171f3-7894-4466-9f83-7d384395c959.svg" alt="webpack">,vanilla <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796499-b81edbe6-b798-462a-bbce-46eff62550e6.svg" alt="vanilla"> js, SQL DATABASE <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796480-b14a7dd0-613b-42a9-87c6-7251111c2d13.svg" alt="SQL">, .net,matlab- labview- gnuradio ,embedded systems - raspberrian systems <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796487-6d4e5c95-ddf9-4ed3-8dc9-83ad663099c5.svg" alt="raspberrian"> and bitbacked,  c and c for embedded - microcontroller- dsp tiva c , python <img style="width:20px; height:22px" src="https://user-images.githubusercontent.com/43582900/216796485-87c4b1d9-b4b9-4a28-9273-63af4e29e3e0.svg" alt="python">,fpga verilog VHDL
 
 ## Projects
-- check my Public repos.
-- and may be ask for private repo b demand
+- Kindly check my Public repos.
+- And may be ask for private repo b demand
 
 ## Experience
 - [Full Stack EngineerFull Stack Engineer, [CodageTech]()] , Cairo, Egypt- leading Team to build more than 4 Fullstack applications ERP SAAS System, Implementing Mobile applications, Outsourcing tasks and integrate TDD developed modules- leading Team to build more than 4 Fullstack applications ERP SAAS System - Implementing Mobile applications - Outsourcing tasks and integrate TDD developed modules
