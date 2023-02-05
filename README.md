@@ -18,7 +18,7 @@ webpack <img style="width:20px; height:22px" src="https://user-images.githubuser
 
 ## Education
 - [PhDDoctor of Philosophy - PhD, [Beihang University](https://ev.buaa.edu.cn/)] Information systems and Information security
--[Master of Engineering (M.Eng.), [MTC](http://www.mtc.edu.eg/mtcwebsite/)]  Electrical, Electronics and Communications Engineering
+- [Master of Engineering (M.Eng.), [MTC](http://www.mtc.edu.eg/mtcwebsite/)]  Electrical, Electronics and Communications Engineering
 ## Certificates
 - Advanced Full-Stack Web DevelopmentAdvanced Full-Stack Web Development Udacity [certificate](https://graduation.udacity.com/confirm/DDJGGGCR)Issued Feb 2022Issued Feb 2022
 - Advanced Front-End Web DevelopmentAdvanced Front-End Web Development Udacity [certificate](https://graduation.udacity.com/confirm/7ZVLCHCC)Issued Nov 2021Issued Nov 2021
