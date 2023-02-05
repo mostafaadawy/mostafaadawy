@@ -1,19 +1,5 @@
 hi there 👋 I am Mostafa Adawy a Software/Firmeware developer with a wide varity of experiences 😎, check my repos 👇 and you can get certain of that.
    
-- 🔭 I’m currently working on building Web apps 🕸️ with different tools such as Node js <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794283-8bce0ad7-bf56-42b2-986f-f3ae93b13e37.png" alt="NJS"> Laravel <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794288-5422f3cc-aea1-4688-a4f9-4a6f04d56759.png" alt="LARAVEL"> react js <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794296-0214b8fd-fb52-4125-bc45-9a36e558b806.png" alt="react"> Angular <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794298-b273ef59-aab2-4bbb-ab7a-cc884edacd13.png" alt="Angular"> redux <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794618-136ab706-72b2-4e1f-8548-529c9019c590.png" alt="redux"> Even Django <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216795071-c911d42f-d158-408b-ad43-a2f8cc678a77.svg" alt="Django">
+- 🔭 I’m currently working on building Web apps 🕸️ with different tools such as Node js <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795524-aa2c5148-8ff6-42e7-a4db-e20f61434726.svg" alt="NJS"> Laravel <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795519-b4289b42-1f41-44dc-8cd7-cc0fb9f9327b.svg" alt="LARAVEL">  PHP <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795516-1bff28c1-68aa-479e-94b9-1bb838248d52.svg" alt="LARAVEL"> react js <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795541-ea7e6cb9-907b-4ecb-98c7-b52ac20b2452.svg" alt="react"> Angular <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795491-d73ca5bc-f66a-475f-9e4d-09469c29adb9.svg" alt="Angular"> redux <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795529-0db2a0d0-fe5c-4867-a41e-c386c50542fa.svg" alt="redux"> Even Django <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216795071-c911d42f-d158-408b-ad43-a2f8cc678a77.svg" alt="Django">
 
-- 🌱 I’m currently learning web3 <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794850-08b1a892-4c19-4732-82ca-451ace94be3f.png" alt="web3">, smart contract <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794879-edb43f07-7096-4958-9a0e-287db648ac19.png" alt="smart">, block chain <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794680-57647bf7-a3fb-47a4-925f-31788f9c8361.png" alt="blockchain">, Solidity <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794662-76233d14-63f2-4069-938b-471c90f0db64.png" alt="blockchain">
-<!--
-**mostafaadawy/mostafaadawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning web3 <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216794850-08b1a892-4c19-4732-82ca-451ace94be3f.png" alt="web3">, smart contract <img style="width:20px; height:20px" src="https://user-images.githubusercontent.com/43582900/216794879-edb43f07-7096-4958-9a0e-287db648ac19.png" alt="smart">, block chain <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795499-7939b5aa-b8c7-4f2d-aad9-6e8d642d82e2.svg" alt="blockchain">, Solidity <img style="width:25px; height:25px" src="https://user-images.githubusercontent.com/43582900/216795531-1f0fc5a6-eb92-440f-8819-1f4180d2351c.svg" alt="blockchain">
